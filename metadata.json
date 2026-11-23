@@ -1,0 +1,6 @@
+{
+  "name": "EK Mobile Valeting — Car Detailing & 9H Ceramic Studio",
+  "description": "Luxury mobile car valeting, multi-stage paint correction, 9H ceramic coating, and PPF protection studio in East Kilbride, Glasgow (G75 9BS).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
